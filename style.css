@@ -1,0 +1,49 @@
+body {
+    background-color: #0072AC;
+}
+.name{
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+.about {
+    font-family: Montserrat, sans-serif;  
+    font-size: 12px;
+    line-height: 22px;
+    margin: 0 35px;
+    padding: 0 35px;
+    text-align: justify;    
+}
+.pic {
+    background-color: rgba(25, 70, 92,.8);
+    float: left;
+    margin: 0 35px;
+    padding: 10px;
+}
+.local {
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: underline;
+}
+.skills{
+    margin-top: 50px;
+}
+.html {
+    font-size: 16px;
+}
+.css {
+    font-size: 18px;
+}
+.js {
+    font-size: 14px;
+}
+.node {
+    font-size: 12px;
+}
+
+li{
+    margin-top: 10px;
+}
+
+.impar {
+    text-decoration: underline;
+}
