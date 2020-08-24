@@ -43,3 +43,7 @@ body {
 li{
     margin-top: 10px;
 }
+
+.impar {
+    text-decoration: underline;
+}
